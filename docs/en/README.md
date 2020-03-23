@@ -1,7 +1,7 @@
-# FP-Markdown 
+# FP8-Markdown 
 Hugo Gonçalves\
 <code>2180658</code>
-### Linguagens de programação conhecidas:
+### Known pragraming languages:
 
 - C
 - Javascript
